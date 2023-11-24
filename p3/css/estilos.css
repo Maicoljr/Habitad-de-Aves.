@@ -1,0 +1,91 @@
+body{
+	background-color: gray;
+}
+
+.contenido{
+	border: solid darkred;
+	 height: 800px;
+	 margin: 100px;
+	 padding: 100px;
+	 width: 1100px;
+}
+
+.titulo{
+	background-color: whitesmoke;
+	border: solid black;
+	 height: 80px;
+	 margin: 20px;
+	 padding: 10px;
+	width: 970px;
+}
+
+img.pequeña{
+  width: 60px;
+  height: 60px;
+
+
+}
+
+
+.abcd{
+	display: flex;
+   align-items: center;
+}
+
+.content1{
+	background-color: gray;
+	display: flex;
+
+}
+
+.content2{
+	background-color: gray;
+	display: flex;
+	justify-content: space-between;
+	justify-items: center;
+	width: 1030px;
+
+}
+.caja1{
+	background-color: whitesmoke;
+	border: solid yellow;
+	 margin: 20px;
+	height: 400px;
+	width: 450px;
+	padding: 10px;
+}
+.caja2{
+	background-color: whitesmoke;
+	border: solid darksalmon;
+	 margin: 20px;
+	height: 400px;
+	width: 400px;
+	padding: 10px;
+}
+.caja3{
+	background-color: whitesmoke;
+	border: solid orange;
+	 margin: 20px;
+	height: 200px;
+	width: 450px;
+	padding: 10px;
+}
+.caja4{
+	background-color: whitesmoke;
+	border: solid orange;
+	 margin: 20px;
+	height: 200px;
+	width: 450px;
+	padding: 10px;
+}
+img{
+	height: 300px;
+	width: 400px;
+	padding-left: 20px;
+}
+
+.grande{
+	  width: 300px;
+  height: 200px;
+
+  }
